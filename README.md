@@ -7,7 +7,7 @@ This repo is duplicated from [the skeleton repo](https://github.com/Berkeley-CS6
 ## Todo list
 
 - Lab
-  - [ ] lab1
+  - [x] lab1
   - [ ] lab2setup
   - [ ] lab2
   - [ ] lab3
