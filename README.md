@@ -31,7 +31,7 @@ This repo is duplicated from [the skeleton repo](https://github.com/Berkeley-CS6
   - [ ] hw3
   - [ ] hw4
 - Project
-  - [ ] proj0
+  - [x] proj0
   - [ ] proj1a
   - [ ] proj1b
   - [ ] proj1gold
