@@ -8,8 +8,8 @@ This repo is duplicated from [the skeleton repo](https://github.com/Berkeley-CS6
 
 - Lab
   - [x] lab1
-  - [ ] lab2setup
-  - [ ] lab2
+  - [x] lab2setup
+  - [x] lab2
   - [ ] lab3
   - [ ] lab4
   - [ ] lab5
