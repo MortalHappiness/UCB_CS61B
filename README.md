@@ -12,7 +12,7 @@ This repo is duplicated from [the skeleton repo](https://github.com/Berkeley-CS6
   - [x] lab2
   - [x] lab3
   - [x] ~~lab4~~
-  - [ ] lab5
+  - [x] lab5
   - [ ] lab6
   - [ ] clab6
   - [ ] lab7
